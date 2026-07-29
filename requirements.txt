@@ -1,1 +1,4 @@
-requests\nbeautifulsoup4\ndnspython\npython-whois
+requests
+beautifulsoup4
+dnspython
+python-whois
